@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fib Finder</string>
+    <string name="hello_world">Fill </string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_text">Enter a Fibonacci Value</string>
+    <string name="btn_text">Compute Index</string>
+    <string name="no_value">You haven\'t entered a value yet!</string>
+    <string name="invalid_input">The value you entered isn\'t a valid integer!</string>
+
+</resources>
